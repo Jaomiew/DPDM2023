@@ -21,7 +21,7 @@
 ---
 ## :purple_heart: Table of Contents
 
-เนื้อหาทั้งหมดที่เราได้เรียนจะประกอบไปด้วย 6 เรื่อง มีดังนี้
+เนื้อหาทั้งหมดประกอบไปด้วย 6 เรื่อง มีดังนี้
 
 | Chapter | Content |
 | ----------- | ----------- |
@@ -47,13 +47,21 @@
 - Basic python :arrow_forward: [python101](https://github.com/Jaomiew/DPDM2023/blob/main/Python101.ipynb)
 
    :star: คือการมาทำความรู้จักเกี่ยวกับการเขียนโค้ด python เบื้องต้น
+  
      :feet: ตัวอย่าง python
+  
      :feet: ข้อมูล string (ประเภทข้อความ)
+  
      :feet: ตัวแปร Variable คืออะไร
+  
      :feet: การใช้คำสั่ง print และ advance print
+  
      :feet: การคั่นกลาง (separator)
+  
      :feet: การขึ้นบรรทัดใหม่ (end)
+  
      :feet: ประเภทของตัวแปร
+  
      :feet: การเปลี่ยนแปลงชนิดตัวแปร
 ---
 ## :file_folder: Chapter 2 : Know the data
@@ -68,19 +76,28 @@
 - Data101 :arrow_forward: [Data101](https://github.com/Jaomiew/DPDM2023/blob/main/Data101_(Chapter2).ipynb)
   
    :star: เรียนเกียวกับการนำเข้าข้อมูลและสิ่งที่ต้องใช้การในการหาด้วยวิธีการ loop หรือ ฟังก์ชัน
+  
      :feet: Data structure
+  
      :feet: loop ด้วยการใช้ for
+  
      :feet: nested loop
+  
      :feet: conditional if statment
+  
      :feet: Def หรือการสร้าง function
     
 - Data102 :arrow_forward: [Data102](https://github.com/Jaomiew/DPDM2023/blob/main/Data102(Chapter2).ipynb)
 
    :star: เมื่อนำข้อมูลเข้ามา เราสามารถอธิบายการสร้างตารางใหม่รวมไปถึงการทำ boxplot และกราฟเพื่ออธิบายได้ว่าเกิดอะไรขึ้น
+  
       :feet: พานำข้อมูลเข้าด้วยการเชื่อมกับ Google Drive
       :feet: Step 1 : พาดูข้อมูลว่ามีเท่าไร
+  
       :feet: Step 2 : Descriptive statistical
+  
       :feet: Step 3 : การทำ Boxplot
+  
       :feet: Step 4 : การทำกราฟ
 
 ---
@@ -96,11 +113,17 @@
 - Preprocessing :arrow_forward: [Data Preprocessing](https://github.com/Jaomiew/DPDM2023/blob/main/preprocessing.ipynb)
   
    :star: ก่อนนำข้อมูลไปใช้งานเราจะทำการ Clean data ซึ่งก็มีหลายแบบ
+  
       :feet: เช็ค missing Value
+  
       :feet: การลบค่า missing value ด้วยการ .dropna()
+  
       :feet: การแทนค่า missing value โดยขึ้นกับตัวเราเองเช่น fill เป็น 0
+  
       :feet: การแทนค่า missing value ด้วย mean ของแต่ละกลุ่ม
+  
       :feet: การเชื่อมตาราง
+  
       :feet: สร้างตาราง dataframe
 
 ---
@@ -134,11 +157,17 @@
 - Classification :arrow_forward: [Classification](https://github.com/Jaomiew/DPDM2023/blob/main/Classification.ipynb)
 
    :star: Classification เป็นวิธีที่ใช้สอนโมเดลคอมพิวเตอร์ให้สามารถแยกแยะวัตถุหรือข้อมูลออกเป็นกลุ่มหรือประเภทต่าง ๆ ตามลักษณะหรือคุณสมบัติที่กำหนดไว้ล่วงหน้า
+  
       :feet: Try Simple ML
+  
       :feet: Import
+  
       :feet: Define
-      :feet: Train 
+  
+      :feet: Train
+  
       :feet: Test
+  
       :feet: Set parameter
 
 - K-nearest neighbor :arrow_forward: [KNN Classification](https://github.com/Jaomiew/DPDM2023/blob/main/HW4.ipynb)
