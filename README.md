@@ -21,7 +21,7 @@
 ---
 ## :purple_heart: Table of Contents
 
-เนื้อหาทั้งหมดที่เราได้เรียนจะประกอบไปด้วย 6 เรื่องได้แก่
+เนื้อหาทั้งหมดที่เราได้เรียนจะประกอบไปด้วย 6 เรื่อง มีดังนี้
 
 | Chapter | Content |
 | ----------- | ----------- |
@@ -45,18 +45,19 @@
 - Introduction :arrow_forward: [Introduction](https://github.com/Jaomiew/DPDM2023/blob/main/Introduction.ipynb)
 
 - Basic python :arrow_forward: [python101](https://github.com/Jaomiew/DPDM2023/blob/main/Python101.ipynb)
-* คือการมาทำความรู้จักเกี่ยวกับการเขียนโค้ด python เบื้องต้น
-  - ตัวอย่าง python
-  - ข้อมูล string (ประเภทข้อความ)
-  - ตัวแปร Variable คืออะไร
-  - การใช้คำสั่ง print และ advance print
-  - การคั่นกลาง (separator)
-  - การขึ้นบรรทัดใหม่ (end)
-  - ประเภทของตัวแปร
-  - การเปลี่ยนแปลงชนิดตัวแปร
+
+   :star: คือการมาทำความรู้จักเกี่ยวกับการเขียนโค้ด python เบื้องต้น
+     :feet: ตัวอย่าง python
+     :feet: ข้อมูล string (ประเภทข้อความ)
+     :feet: ตัวแปร Variable คืออะไร
+     :feet: การใช้คำสั่ง print และ advance print
+     :feet: การคั่นกลาง (separator)
+     :feet: การขึ้นบรรทัดใหม่ (end)
+     :feet: ประเภทของตัวแปร
+     :feet: การเปลี่ยนแปลงชนิดตัวแปร
 ---
 ## :file_folder: Chapter 2 : Know the data
-เป็นการทำความรู้จักข้อมูลต่างๆไม่ว่าจะเป็นในรูปแบบ เสียง ข้อความหรือภาพ เพื่อนำไปใช้งาน และในส่วนของ Python จะมีการใช้คำสั่งต่างๆในการสร้าง function รวมไปถึงการดูภาพรวมข้อมูลทั้งหมด รวมถึงการทำ Boxplot และการสร้างกราฟ
+เป็นการทำความรู้จักข้อมูลต่างๆ ในส่วนของ Python จะมีการใช้คำสั่งต่างๆในการสร้าง function รวมไปถึงการทำ Boxplot และการสร้างกราฟ
 
 :notebook: lecture part  
 
@@ -66,25 +67,25 @@
 
 - Data101 :arrow_forward: [Data101](https://github.com/Jaomiew/DPDM2023/blob/main/Data101_(Chapter2).ipynb)
   
-  *เรียนเกียวกับการนำเข้าข้อมูลและ สิ่งที่ต้องใช้การในการหาด้วยวิธีการ loop หรือ ฟังก์ชัน
-  - Data structure
-  - loop ด้วยการใช้ for
-  - nested loop
-  - conditional if statment
-  - Def หรือการสร้าง function
+   :star: เรียนเกียวกับการนำเข้าข้อมูลและสิ่งที่ต้องใช้การในการหาด้วยวิธีการ loop หรือ ฟังก์ชัน
+     :feet: Data structure
+     :feet: loop ด้วยการใช้ for
+     :feet: nested loop
+     :feet: conditional if statment
+     :feet: Def หรือการสร้าง function
     
 - Data102 :arrow_forward: [Data102](https://github.com/Jaomiew/DPDM2023/blob/main/Data102(Chapter2).ipynb)
 
-  * เมื่อนำข้อมูลเข้ามา เราสามารถอธิบายการสร้างตารางใหม่รวมไปถึงการทำ boxplot และกราฟเพื่ออธิบายได้ว่าเกิดอะไรขึ้นที่นั้น
-     - พานำข้อมูลเข้าด้วยการเชื่อมกับ Google Drive
-     - Step 1 : พาดูข้อมูลว่ามีเท่าไร
-     - Step 2 : Descriptive statistical
-     - Step 3 : การทำ Boxplot
-     - Step 4 : การทำกราฟ
+   :star: เมื่อนำข้อมูลเข้ามา เราสามารถอธิบายการสร้างตารางใหม่รวมไปถึงการทำ boxplot และกราฟเพื่ออธิบายได้ว่าเกิดอะไรขึ้น
+      :feet: พานำข้อมูลเข้าด้วยการเชื่อมกับ Google Drive
+      :feet: Step 1 : พาดูข้อมูลว่ามีเท่าไร
+      :feet: Step 2 : Descriptive statistical
+      :feet: Step 3 : การทำ Boxplot
+      :feet: Step 4 : การทำกราฟ
 
 ---
 ## :file_folder: Chapter 3 : Preprocessing
-เป็นการสอนวิธีการทำความสะอาดข้อมูลเพื่อนำไปใช้งาน รวมทั้งการรวมตาราง และการสร้างตารางขึ้นมาใหม่
+เป็นการสอนวิธีการทำความสะอาดข้อมูลเพื่อนำไปใช้งาน รวมทั้งการรวมตาราง และการสร้างตาราง
 
 :notebook: lecture part 
 
@@ -94,13 +95,13 @@
 
 - Preprocessing :arrow_forward: [Data Preprocessing](https://github.com/Jaomiew/DPDM2023/blob/main/preprocessing.ipynb)
   
-  * ก่อนนำข้อมูลไปใช้งานเราจะทำการ Clean data ซึ่งก็มีหลายแบบ
-     - เช็ค missing Value
-     - การลบค่า missing value ด้วยการ .dropna()
-     - การแทนค่า missing value โดยขึ้นกับตัวเราเองเช่น fill เป็น 0
-     - การแทนค่า missing value ด้วย mean ของแต่ละกลุ่ม
-     - การเชื่อมตาราง
-     - สร้างตาราง dataframe
+   :star: ก่อนนำข้อมูลไปใช้งานเราจะทำการ Clean data ซึ่งก็มีหลายแบบ
+      :feet: เช็ค missing Value
+      :feet: การลบค่า missing value ด้วยการ .dropna()
+      :feet: การแทนค่า missing value โดยขึ้นกับตัวเราเองเช่น fill เป็น 0
+      :feet: การแทนค่า missing value ด้วย mean ของแต่ละกลุ่ม
+      :feet: การเชื่อมตาราง
+      :feet: สร้างตาราง dataframe
 
 ---
 ## :file_folder: Chapter 6 : Frequent Patterns
@@ -114,13 +115,13 @@
 
 - Frequent Patterns :arrow_forward: [Frequent Patterns](https://github.com/Jaomiew/DPDM2023/blob/main/Frequent_Patterns_(Association_Rules).ipynb)
 
-:sob: Quiz part 
+:sob: Quiz Part 
 
 - Quiz  :arrow_forward: [Quiz 5](https://github.com/Jaomiew/DPDM2023/blob/main/Q.pdf)
 
 ---
 ## :file_folder: Chapter 8 : Classification
-เป็นการทำความเข้าใจเกี่ยวกับการจำแนกข้อมูลซึ่งเป็น Supervise learning เพื่อให้ข้อมูลในอนาคตที่เข้ามาสามารถทำนายได้อย่างแม่นยำ
+เป็นการทำความเข้าใจเกี่ยวกับการจำแนกข้อมูลเพื่อให้ข้อมูลในอนาคตที่เข้ามาสามารถทำนายได้อย่างแม่นยำ
 
 :notebook: lecture part  
 
@@ -132,26 +133,26 @@
   
 - Classification :arrow_forward: [Classification](https://github.com/Jaomiew/DPDM2023/blob/main/Classification.ipynb)
 
-  * Classification เป็นวิธีที่ใช้สอนโมเดลคอมพิวเตอร์ให้สามารถแยกแยะวัตถุหรือข้อมูลออกเป็นกลุ่มหรือประเภทต่าง ๆ ตามลักษณะหรือคุณสมบัติที่กำหนดไว้ล่วงหน้า
-     - Try Simple ML
-     - Import
-     - Define
-     - Train 
-     - Test
-     - Set parameter
+   :star: Classification เป็นวิธีที่ใช้สอนโมเดลคอมพิวเตอร์ให้สามารถแยกแยะวัตถุหรือข้อมูลออกเป็นกลุ่มหรือประเภทต่าง ๆ ตามลักษณะหรือคุณสมบัติที่กำหนดไว้ล่วงหน้า
+      :feet: Try Simple ML
+      :feet: Import
+      :feet: Define
+      :feet: Train 
+      :feet: Test
+      :feet: Set parameter
 
 - K-nearest neighbor :arrow_forward: [KNN Classification](https://github.com/Jaomiew/DPDM2023/blob/main/HW4.ipynb)
   
-  * KNN คือการแบ่งกลุ่ม (classification ) โดยวิธีการที่ว่า เมื่อมีข้อมูลใหม่มาเมื่อเทียบกับข้อมูลทั้งหมดเหมือนกลุ่มไหนมากที่สุด
+   :star: KNN คือการแบ่งกลุ่ม (classification ) โดยวิธีการที่ว่า เมื่อมีข้อมูลใหม่มาเมื่อเทียบกับข้อมูลทั้งหมดเหมือนกลุ่มไหนมากที่สุด
     
 
-:sob: Quiz part
+:sob: Quiz Part
   
 - Quiz  :arrow_forward: [Quiz 6](https://github.com/Jaomiew/DPDM2023/blob/main/Q6.pdf)
 
 ---
 ## :file_folder: Chapter 10 : Clustering
-เป็นการทำความเข้าใจเกี่ยวกับการแบ่งกลุ่มซึ่งเป็น Unsupervise learning เพื่อให้ข้อมูลที่มีอยู่สามารถแบ่งกลุ่มเพื่ออธิบายข้อมูลของแต่ละกลุ่ม
+เป็นการทำความเข้าใจเกี่ยวกับการแบ่งกลุ่มเพื่อให้ข้อมูลที่มีอยู่สามารถแบ่งกลุ่มเพื่ออธิบายข้อมูลของแต่ละกลุ่ม
 
 :notebook: lecture part 
 
@@ -159,7 +160,7 @@
 
 ---
 ## :scream: Examination
-การสอบแบ่งออกเป็น 2 ส่วน ได้แก่ การสอบกลางภาคและการสอบปลายภาค
+การสอบแบ่งออกเป็น 2 ส่วน ได้แก่ การสอบกลางภาค และการสอบปลายภาค
   
 :mortar_board: Mid-term Exam :arrow_forward: [Mid Term Exam](https://github.com/Jaomiew/DPDM2023/blob/main/midterm_dpdm2023.ipynb)
 
@@ -167,7 +168,7 @@
 
 ---
 ## :mag: Research project
-Research project เป็นการหา paper ที่มีเนื้อหาเกี่ยวกับกับรายวิชานี้ นำมาทดลองและนำเสนอ ซึ่งในงานนี้ได้ศึกษาเกี่ยวกับแบบจำลองการทำเหมือนข้อมูลสำหรับการฟื้นฟูของผู้ป่วย
+Research project เป็นการหา Paper ที่มีเนื้อหาเกี่ยวกับกับรายวิชานี้ นำมาทดลองและนำเสนอ ซึ่งในงานนี้ได้ศึกษาเกี่ยวกับแบบจำลองการทำเหมือนข้อมูลสำหรับการฟื้นฟูของผู้ป่วย
 ที่ติดเชื้อโควิด-19 
 
 - เนื้อหาใน Research project มีดังนี้
