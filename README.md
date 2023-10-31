@@ -28,7 +28,7 @@
 | Chapter 1 | Introduction |
 | Chapter 2 | Know the data |
 | Chapter 3 | Data Preprocessing |
-| Chapter 6 | Frequent Patterns(Association Rules) |
+| Chapter 6 | Frequent Patterns |
 | Chapter 8 | Classification |
 | Chapter 10 | Clustering |
 
@@ -46,7 +46,7 @@
 
 - Basic python :arrow_forward: [python101](https://github.com/Jaomiew/DPDM2023/blob/main/Python101.ipynb)
 
-   :star: คือการมาทำความรู้จักเกี่ยวกับการเขียนโค้ด python เบื้องต้น
+   :star: คือการมาทำความรู้จักเกี่ยวกับการเขียนโค้ด Python เบื้องต้น
 
      :feet: ตัวอย่าง python
   
@@ -89,7 +89,7 @@
     
 - Data102 :arrow_forward: [Data102](https://github.com/Jaomiew/DPDM2023/blob/main/Data102(Chapter2).ipynb)
 
-   :star: เมื่อนำข้อมูลเข้ามา เราสามารถอธิบายการสร้างตารางใหม่รวมไปถึงการทำ boxplot และกราฟเพื่ออธิบายได้ว่าเกิดอะไรขึ้น
+   :star: เมื่อนำข้อมูลเข้ามา เราสามารถอธิบายการสร้างตารางใหม่รวมไปถึงการทำ Boxplot และกราฟเพื่ออธิบายได้ว่าเกิดอะไรขึ้น
 
      :feet: พานำข้อมูลเข้าด้วยการเชื่อมกับ Google Drive
   
@@ -115,17 +115,17 @@
   
    :star: ก่อนนำข้อมูลไปใช้งานเราจะทำการ Clean data ซึ่งก็มีหลายแบบ
 
-     - :feet: เช็ค missing Value
+     :feet: เช็ค missing Value
   
-     - :feet: การลบค่า missing value ด้วยการ .dropna()
+     :feet: การลบค่า missing value ด้วยการ .dropna()
   
-     - :feet: การแทนค่า missing value โดยขึ้นกับตัวเราเองเช่น fill เป็น 0
+     :feet: การแทนค่า missing value โดยขึ้นกับตัวเราเองเช่น fill เป็น 0
   
-     - :feet: การแทนค่า missing value ด้วย mean ของแต่ละกลุ่ม
+     :feet: การแทนค่า missing value ด้วย mean ของแต่ละกลุ่ม
   
-     - :feet: การเชื่อมตาราง
+     :feet: การเชื่อมตาราง
   
-     - :feet: สร้างตาราง dataframe
+     :feet: สร้างตาราง dataframe
 
 ---
 ## :file_folder: Chapter 6 : Frequent Patterns
@@ -159,17 +159,17 @@
 
    :star: Classification เป็นวิธีที่ใช้สอนโมเดลคอมพิวเตอร์ให้สามารถแยกแยะวัตถุหรือข้อมูลออกเป็นกลุ่มหรือประเภทต่าง ๆ ตามลักษณะหรือคุณสมบัติที่กำหนดไว้ล่วงหน้า
 
-     - :feet: Try Simple ML
-
-     - :feet: Import
+   :feet: Try Simple ML
   
-     - :feet: Define
+   :feet: Import
   
-     -:feet: Train
+   :feet: Define
   
-     - :feet: Test
+   :feet: Train
   
-     - :feet: Set parameter
+   :feet: Test
+  
+   :feet: Set parameter
 
 
 - K-nearest neighbor :arrow_forward: [KNN Classification](https://github.com/Jaomiew/DPDM2023/blob/main/HW4.ipynb)
