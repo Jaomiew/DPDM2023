@@ -47,7 +47,7 @@
 - Basic python :arrow_forward: [python101](https://github.com/Jaomiew/DPDM2023/blob/main/Python101.ipynb)
 
    :star: คือการมาทำความรู้จักเกี่ยวกับการเขียนโค้ด python เบื้องต้น
-  
+
      :feet: ตัวอย่าง python
   
      :feet: ข้อมูล string (ประเภทข้อความ)
@@ -90,15 +90,16 @@
 - Data102 :arrow_forward: [Data102](https://github.com/Jaomiew/DPDM2023/blob/main/Data102(Chapter2).ipynb)
 
    :star: เมื่อนำข้อมูลเข้ามา เราสามารถอธิบายการสร้างตารางใหม่รวมไปถึงการทำ boxplot และกราฟเพื่ออธิบายได้ว่าเกิดอะไรขึ้น
+
+     :feet: พานำข้อมูลเข้าด้วยการเชื่อมกับ Google Drive
   
-      :feet: พานำข้อมูลเข้าด้วยการเชื่อมกับ Google Drive
-      :feet: Step 1 : พาดูข้อมูลว่ามีเท่าไร
+     :feet: Step 1 : พาดูข้อมูลว่ามีเท่าไร
   
-      :feet: Step 2 : Descriptive statistical
+     :feet: Step 2 : Descriptive statistical
   
-      :feet: Step 3 : การทำ Boxplot
+     :feet: Step 3 : การทำ Boxplot
   
-      :feet: Step 4 : การทำกราฟ
+     :feet: Step 4 : การทำกราฟ
 
 ---
 ## :file_folder: Chapter 3 : Preprocessing
@@ -113,7 +114,7 @@
 - Preprocessing :arrow_forward: [Data Preprocessing](https://github.com/Jaomiew/DPDM2023/blob/main/preprocessing.ipynb)
   
    :star: ก่อนนำข้อมูลไปใช้งานเราจะทำการ Clean data ซึ่งก็มีหลายแบบ
-  
+
       :feet: เช็ค missing Value
   
       :feet: การลบค่า missing value ด้วยการ .dropna()
@@ -158,17 +159,17 @@
 
    :star: Classification เป็นวิธีที่ใช้สอนโมเดลคอมพิวเตอร์ให้สามารถแยกแยะวัตถุหรือข้อมูลออกเป็นกลุ่มหรือประเภทต่าง ๆ ตามลักษณะหรือคุณสมบัติที่กำหนดไว้ล่วงหน้า
 
-       :feet: Try Simple ML
+      :feet: Try Simple ML
+
+      :feet: Import
   
-       :feet: Import
+      :feet: Define
   
-       :feet: Define
+      :feet: Train
   
-       :feet: Train
+      :feet: Test
   
-       :feet: Test
-  
-       :feet: Set parameter
+      :feet: Set parameter
 
 
 - K-nearest neighbor :arrow_forward: [KNN Classification](https://github.com/Jaomiew/DPDM2023/blob/main/HW4.ipynb)
