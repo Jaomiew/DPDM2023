@@ -115,17 +115,17 @@
   
    :star: ก่อนนำข้อมูลไปใช้งานเราจะทำการ Clean data ซึ่งก็มีหลายแบบ
 
-      :feet:เช็ค missing Value
+     - :feet: เช็ค missing Value
   
-      :feet:การลบค่า missing value ด้วยการ .dropna()
+     - :feet: การลบค่า missing value ด้วยการ .dropna()
   
-      :feet:การแทนค่า missing value โดยขึ้นกับตัวเราเองเช่น fill เป็น 0
+     - :feet: การแทนค่า missing value โดยขึ้นกับตัวเราเองเช่น fill เป็น 0
   
-      :feet:การแทนค่า missing value ด้วย mean ของแต่ละกลุ่ม
+     - :feet: การแทนค่า missing value ด้วย mean ของแต่ละกลุ่ม
   
-      :feet:การเชื่อมตาราง
+     - :feet: การเชื่อมตาราง
   
-      :feet:สร้างตาราง dataframe
+     - :feet: สร้างตาราง dataframe
 
 ---
 ## :file_folder: Chapter 6 : Frequent Patterns
@@ -159,17 +159,17 @@
 
    :star: Classification เป็นวิธีที่ใช้สอนโมเดลคอมพิวเตอร์ให้สามารถแยกแยะวัตถุหรือข้อมูลออกเป็นกลุ่มหรือประเภทต่าง ๆ ตามลักษณะหรือคุณสมบัติที่กำหนดไว้ล่วงหน้า
 
-      :feet:Try Simple ML
+     - :feet: Try Simple ML
 
-      :feet:Import
+     - :feet: Import
   
-      :feet:Define
+     - :feet: Define
   
-      :feet:Train
+     -:feet: Train
   
-      :feet:Test
+     - :feet: Test
   
-      :feet:Set parameter
+     - :feet: Set parameter
 
 
 - K-nearest neighbor :arrow_forward: [KNN Classification](https://github.com/Jaomiew/DPDM2023/blob/main/HW4.ipynb)
