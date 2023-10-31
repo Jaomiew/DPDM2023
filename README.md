@@ -157,18 +157,19 @@
 - Classification :arrow_forward: [Classification](https://github.com/Jaomiew/DPDM2023/blob/main/Classification.ipynb)
 
    :star: Classification เป็นวิธีที่ใช้สอนโมเดลคอมพิวเตอร์ให้สามารถแยกแยะวัตถุหรือข้อมูลออกเป็นกลุ่มหรือประเภทต่าง ๆ ตามลักษณะหรือคุณสมบัติที่กำหนดไว้ล่วงหน้า
+
+       :feet: Try Simple ML
   
-      :feet: Try Simple ML
+       :feet: Import
   
-      :feet: Import
+       :feet: Define
   
-      :feet: Define
+       :feet: Train
   
-      :feet: Train
+       :feet: Test
   
-      :feet: Test
-  
-      :feet: Set parameter
+       :feet: Set parameter
+
 
 - K-nearest neighbor :arrow_forward: [KNN Classification](https://github.com/Jaomiew/DPDM2023/blob/main/HW4.ipynb)
   
@@ -200,8 +201,6 @@
 Research project เป็นการหา Paper ที่มีเนื้อหาเกี่ยวกับกับรายวิชานี้ นำมาทดลองและนำเสนอ ซึ่งในงานนี้ได้ศึกษาเกี่ยวกับแบบจำลองการทำเหมือนข้อมูลสำหรับการฟื้นฟูของผู้ป่วย
 ที่ติดเชื้อโควิด-19 
 
-- เนื้อหาใน Research project มีดังนี้
-  
 :newspaper: References :arrow_forward: [Paper](https://github.com/Jaomiew/DPDM2023/blob/main/Predictive%20Data%20Mining%20Models.pdf)
 
 :information_desk_person: Presentation :arrow_forward: [PPT](https://github.com/Jaomiew/DPDM2023/blob/main/PPT_Research%20Project.pdf)
