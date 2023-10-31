@@ -12,10 +12,12 @@
 | Midterm Exam | 10% |
 | Final Exam | 30% |
 ## :purple_heart: Grading
-- 85% ===>  A 
-- 80% ===>  B+
-- 70% ===>  B
-- <50% ===> F
+| คะแนน | เกรด |
+| ----------- | ----------- |
+|85% |  A  |
+| 80% |  B+ |
+| 70% |  B |
+|<50% | F |
 ---
 ## :purple_heart: Table of Contents
 
@@ -43,7 +45,15 @@
 - Introduction :arrow_forward: [Introduction](https://github.com/Jaomiew/DPDM2023/blob/main/Introduction.ipynb)
 
 - Basic python :arrow_forward: [python101](https://github.com/Jaomiew/DPDM2023/blob/main/Python101.ipynb)
-
+* คือการมาทำความรู้จักเกี่ยวกับการเขียนโค้ด python เบื้องต้น
+  - ตัวอย่าง python
+  - ข้อมูล string (ประเภทข้อความ)
+  - ตัวแปร Variable คืออะไร
+  - การใช้คำสั่ง print และ advance print
+  - การคั่นกลาง (separator)
+  - การขึ้นบรรทัดใหม่ (end)
+  - ประเภทของตัวแปร
+  - การเปลี่ยนแปลงชนิดตัวแปร
 ---
 ## :file_folder: Chapter 2 : Know the data
 เป็นการทำความรู้จักข้อมูลต่างๆไม่ว่าจะเป็นในรูปแบบ เสียง ข้อความหรือภาพ เพื่อนำไปใช้งาน และในส่วนของ Python จะมีการใช้คำสั่งต่างๆในการสร้าง function รวมไปถึงการดูภาพรวมข้อมูลทั้งหมด รวมถึงการทำ Boxplot และการสร้างกราฟ
@@ -55,8 +65,22 @@
 :computer: Coding part
 
 - Data101 :arrow_forward: [Data101](https://github.com/Jaomiew/DPDM2023/blob/main/Data101_(Chapter2).ipynb)
-
+  
+  *เรียนเกียวกับการนำเข้าข้อมูลและ สิ่งที่ต้องใช้การในการหาด้วยวิธีการ loop หรือ ฟังก์ชัน
+  - Data structure
+  - loop ด้วยการใช้ for
+  - nested loop
+  - conditional if statment
+  - Def หรือการสร้าง function
+    
 - Data102 :arrow_forward: [Data102](https://github.com/Jaomiew/DPDM2023/blob/main/Data102(Chapter2).ipynb)
+
+  * เมื่อนำข้อมูลเข้ามา เราสามารถอธิบายการสร้างตารางใหม่รวมไปถึงการทำ boxplot และกราฟเพื่ออธิบายได้ว่าเกิดอะไรขึ้นที่นั้น
+     - พานำข้อมูลเข้าด้วยการเชื่อมกับ Google Drive
+     - Step 1 : พาดูข้อมูลว่ามีเท่าไร
+     - Step 2 : Descriptive statistical
+     - Step 3 : การทำ Boxplot
+     - Step 4 : การทำกราฟ
 
 ---
 ## :file_folder: Chapter 3 : Preprocessing
@@ -69,9 +93,17 @@
 :computer: Coding part  
 
 - Preprocessing :arrow_forward: [Data Preprocessing](https://github.com/Jaomiew/DPDM2023/blob/main/preprocessing.ipynb)
+  
+  * ก่อนนำข้อมูลไปใช้งานเราจะทำการ Clean data ซึ่งก็มีหลายแบบ
+     - เช็ค missing Value
+     - การลบค่า missing value ด้วยการ .dropna()
+     - การแทนค่า missing value โดยขึ้นกับตัวเราเองเช่น fill เป็น 0
+     - การแทนค่า missing value ด้วย mean ของแต่ละกลุ่ม
+     - การเชื่อมตาราง
+     - สร้างตาราง dataframe
 
 ---
-## :file_folder: Chapter 6 : Frequent Patterns(Association Rules)
+## :file_folder: Chapter 6 : Frequent Patterns
 เป็นการทำความเข้าใจเกี่ยวกับแพทเทิร์นของข้อมูล ว่าทุกๆข้อมูลจะมีแพทเทิร์นอย่างนี้แล้วผลลัพธ์จะได้อะไร รวมไปถึงการเข้าใจเกี่ยวกับ Assiciation Rules
 
 :notebook: lecture part
@@ -84,7 +116,7 @@
 
 :sob: Quiz part 
 
-- Quiz 5 :arrow_forward: [Quiz 5](https://github.com/Jaomiew/DPDM2023/blob/main/Q.pdf)
+- Quiz  :arrow_forward: [Quiz 5](https://github.com/Jaomiew/DPDM2023/blob/main/Q.pdf)
 
 ---
 ## :file_folder: Chapter 8 : Classification
@@ -100,11 +132,22 @@
   
 - Classification :arrow_forward: [Classification](https://github.com/Jaomiew/DPDM2023/blob/main/Classification.ipynb)
 
-- K-nearest neighbor :arrow_forward: [K-nearest neighbor](https://github.com/Jaomiew/DPDM2023/blob/main/HW4.ipynb)
+  * Classification เป็นวิธีที่ใช้สอนโมเดลคอมพิวเตอร์ให้สามารถแยกแยะวัตถุหรือข้อมูลออกเป็นกลุ่มหรือประเภทต่าง ๆ ตามลักษณะหรือคุณสมบัติที่กำหนดไว้ล่วงหน้า
+     - Try Simple ML
+     - Import
+     - Define
+     - Train 
+     - Test
+     - Set parameter
+
+- K-nearest neighbor :arrow_forward: [KNN Classification](https://github.com/Jaomiew/DPDM2023/blob/main/HW4.ipynb)
+  
+  * KNN คือการแบ่งกลุ่ม (classification ) โดยวิธีการที่ว่า เมื่อมีข้อมูลใหม่มาเมื่อเทียบกับข้อมูลทั้งหมดเหมือนกลุ่มไหนมากที่สุด
+    
 
 :sob: Quiz part
   
-- Quiz 6 :arrow_forward: [Quiz 6](https://github.com/Jaomiew/DPDM2023/blob/main/Q6.pdf)
+- Quiz  :arrow_forward: [Quiz 6](https://github.com/Jaomiew/DPDM2023/blob/main/Q6.pdf)
 
 ---
 ## :file_folder: Chapter 10 : Clustering
@@ -118,7 +161,7 @@
 ## :scream: Examination
 การสอบแบ่งออกเป็น 2 ส่วน ได้แก่ การสอบกลางภาคและการสอบปลายภาค
   
-:mortar_board: Mid-term Exam :arrow_forward: [Mid-term Exam](https://github.com/Jaomiew/DPDM2023/blob/main/midterm_dpdm2023.ipynb)
+:mortar_board: Mid-term Exam :arrow_forward: [Mid Term Exam](https://github.com/Jaomiew/DPDM2023/blob/main/midterm_dpdm2023.ipynb)
 
 :mortar_board: Final Exam :arrow_forward: [Final Exam](https://github.com/Jaomiew/DPDM2023/blob/main/dpdm23_final.ipynb)
 
@@ -136,5 +179,5 @@ Research project เป็นการหา paper ที่มีเนื้�
 :computer: Coding Part  :arrow_forward: [Coding](https://github.com/Jaomiew/DPDM2023/blob/main/Research_project.ipynb)
 
 ---
-ขอบคุณสำหรับการเยี่ยมชมค่ะ :pray: :purple_heart: :stuck_out_tongue_winking_eye: :kissing_heart: 
+## ขอบคุณค่ะ :pray: :purple_heart: :stuck_out_tongue_winking_eye: :kissing_heart: 
 ![people](รูปภาพ.jpg)
